@@ -27,7 +27,7 @@ Del curso de Power Bi - Santander Open Academy
 
 Insertamos cada columna y le colocamos el operador
 
-
+Nombre completo = [Nombre] & " " & [Apellido]
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5ab9f2c4-2464-4a7e-9a5f-211bafcf24d2" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c46d29c8-a000-4d30-8790-eedc0fb3cbca" />
 
