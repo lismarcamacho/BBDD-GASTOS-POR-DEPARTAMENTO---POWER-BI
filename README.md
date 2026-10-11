@@ -39,6 +39,9 @@ Insertamos cada columna y le colocamos el operador
 
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8e43217d-8063-4d18-9f26-84b13d316d3c" />
+<img width="1440" height="863" alt="WhatsApp Image 2026-10-11 at 2 02 41 PM (1)" src="https://github.com/user-attachments/assets/d83351cf-491d-423d-b9d1-92b666d898ca" />
+
+<img width="1440" height="855" alt="WhatsApp Image 2026-10-11 at 2 13 18 PM (1)" src="https://github.com/user-attachments/assets/40f012c6-454c-4447-a315-2f25c1f06d6b" />
 
 
 
