@@ -38,6 +38,7 @@ Insertamos cada columna y le colocamos el operador
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0ab0dbe1-aa2e-42a4-b3f6-4c71afaba8c2" />
 
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8e43217d-8063-4d18-9f26-84b13d316d3c" />
 
 
 
