@@ -43,6 +43,7 @@ Insertamos cada columna y le colocamos el operador
 
 <img width="1440" height="855" alt="WhatsApp Image 2026-10-11 at 2 13 18 PM (1)" src="https://github.com/user-attachments/assets/40f012c6-454c-4447-a315-2f25c1f06d6b" />
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6550bd59-5bf3-49c3-99d2-b512e019deef" />
 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
