@@ -34,7 +34,9 @@ Insertamos cada columna y le colocamos el operador
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/08d9f70c-2221-4d9e-bfb3-7707c679738b" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/83ac0776-ba54-4309-a0ce-3f6067a46065" />
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/aedd25bd-4a7d-4587-b0c6-3fe1e0fcbb82" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/55af1916-9c0a-449f-bbcb-34a975906677" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0ab0dbe1-aa2e-42a4-b3f6-4c71afaba8c2" />
+
 
 
 
